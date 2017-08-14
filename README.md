@@ -20,3 +20,15 @@ R基础学习-控制流、函数、apply族
 
 ###class7-Data visualization and ggplot2
 数据可视化及ggplot2入门
+
+###class8-Introduction to Database
+数据库入门
+
+###class9-Introduction to Web Scraping and Text Mining
+爬虫及文本挖掘入门
+
+###class10-Machine Learning
+机器学习算法入门
+
+###class11-Rcpp：Seamless R and C++ Integation with Rcpp
+Rcpp - R 与 C++ 的无缝衔接
